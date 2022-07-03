@@ -30,8 +30,8 @@
 ## About Me :
 ### Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de sistemas.
 
-- Atualnente estudo as principais tecnologias para ser um Dev Full Stack Developer <img src="https://media.giphy.com/media/KCqO4k31TnkC2pT5LY/giphy.gif" width="60">
+- Atualnente estudo as principais tecnologias para ser um Dev Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- No meu tempo livre, leio artigos de tecnologia explorando a redação de conteúdo Técnico <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- No meu tempo livre, leio artigos de tecnologia explorando a redação de conteúdo Técnico >
 
-- "A intensidade do processo é proporcional ao valor do propósito" <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- "A intensidade do processo é proporcional ao valor do propósito"
