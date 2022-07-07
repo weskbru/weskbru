@@ -29,7 +29,6 @@
 
 
 ## About Me :
-### Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de sistemas.
 
 - Atualnente estudo as principais tecnologias para ser um Dev Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
