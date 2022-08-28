@@ -32,6 +32,8 @@
 
 - Atualnente estudo as principais tecnologias para ser um Dev Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- No meu tempo livre, leio artigos de tecnologia explorando a redação de conteúdo Técnico >
+- No meu tempo livre, leio artigos de tecnologia explorando a redação de conteúdo Técnico 
+
+-JavaScript entusiasta
 
 - "A intensidade do processo é proporcional ao valor do propósito"
