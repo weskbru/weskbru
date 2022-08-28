@@ -34,6 +34,6 @@
 
 - No meu tempo livre, leio artigos de tecnologia explorando a redação de conteúdo Técnico 
 
--JavaScript entusiasta
+- JavaScript entusiasta
 
 - "A intensidade do processo é proporcional ao valor do propósito"
