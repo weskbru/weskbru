@@ -36,4 +36,3 @@
 
 - JavaScript entusiasta
 
-- "A intensidade do processo é proporcional ao valor do propósito"
